@@ -4,7 +4,7 @@ This is a simple zsh plugin that allows you to create a random string of youre d
 
 # Clone the random-string plugin repository
 
-git clone https://github.com/foresthpark/zsh-rand-string ~/.zsh/plugins/random-string
+git clone https://github.com/foresthpark/zsh-rand-string ~/.zsh/plugins/rand-string
 
 # Load the random-string plugin
 
