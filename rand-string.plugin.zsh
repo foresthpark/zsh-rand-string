@@ -7,5 +7,9 @@ rand-string() {
     result+=${characters:$((RANDOM % ${#characters})):1}
   done
 
+  # Copy the result to the clipboard
+  echo "$result" | pbcopy
+
+  # Output the result to the terminal
   echo "$result"
 }
