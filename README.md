@@ -7,3 +7,6 @@ git clone https://github.com/foresthpark/zsh-rand-string ~/.zsh/plugins/random-s
 # Load the random-string plugin
 
 source ~/.zsh/plugins/random-string/random-string.plugin.zsh
+
+
+This is a simple zsh plugin that allows you to create a random string of youre desired length. I got tired of creating random strings for secrets so I wanted to create an easy way to create one from the CLI.
