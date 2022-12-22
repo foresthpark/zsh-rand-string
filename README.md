@@ -11,4 +11,9 @@ git clone https://github.com/foresthpark/zsh-rand-string ~/.zsh/plugins/random-s
 source ~/.zsh/plugins/random-string/random-string.plugin.zsh
 
 
+# Run the plugin
 
+```
+$ random_string 12
+// result: !k&nx1sdQrnf
+```
